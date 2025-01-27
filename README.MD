@@ -29,7 +29,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um titulo de um ebook sobre o tema de historia dos videogames, o ebook é do nicho de videogames e o subnicho é da historia dos videogames, o titulo deve ser épico ecuto, e tenha uma tematica mais gamer no titulo, me liste 5 variações de titulos                    |
+|  título  | Crie um titulo de um ebook sobre o tema de historia dos videogames, o ebook é do nicho de videogames e o subnicho é da historia dos videogames, o titulo deve ser épico e curto, e tenha uma tematica mais gamer no titulo, me liste 5 variações de titulos                    |
 | conteúdo | Faça um texto para ebook, com foco na hitória dos videogames: {REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre deixe um titulo sugestivo por tópico;  Faça uma introdução para o ebook; Faça uma conclusão para o ebook |
 |   capa   | Crie uma imagem de um joystick de videogame, anos 1970, no estilo pixel art    |
 
