@@ -14,7 +14,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Alinesr28/prompts-recipe-to-create-a-ebook/tree/main/output" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Alinesr28/prompts-recipe-to-create-a-ebook/blob/main/E-book_Game_Start_v2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
